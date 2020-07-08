@@ -21,6 +21,8 @@ Install Hackintosh(Catalina 10.15.x) in Acer TraveMate P249(i5-6200U)
 * [x] WIFI ([zxystd 大神开发的 Intel 无线网卡驱动](https://github.com/zxystd/itlwm))
 * [x] 蓝牙 ([zxystd 大神开发的 Intel 蓝牙驱动](https://github.com/zxystd/IntelBluetoothFirmware))
 * [x] 声卡
+* [x] 摄像头
+* [x] 触控板
 * [x] USB 及 USB 扩展
 * [x] HDMI 输出
 * [x] 关机、重启、睡眠
@@ -33,4 +35,5 @@ Install Hackintosh(Catalina 10.15.x) in Acer TraveMate P249(i5-6200U)
 
 | 日期      | 详情                                                              |
 |-----------|----------------------------------------------------------------------|
+| 2020.07.08 | Clover 5119 及部分 kext 更新 |
 | 2020.06.02 | 初始版本 |

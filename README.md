@@ -24,7 +24,7 @@ Install Hackintosh(Catalina 10.15.x) in Acer TraveMate P249(i5-6200U)
 * [x] 摄像头
 * [x] 触控板
 * [x] USB 及 USB 扩展
-* [x] HDMI 输出
+* [x] HDMI 、VGA 输出
 * [x] 关机、重启、睡眠
 
 ## 提醒

@@ -18,8 +18,8 @@ Install Hackintosh(Catalina 10.15.x) in Acer TraveMate P249(i5-6200U)
 * [x] CPU 变频、原生电源管理
 * [x] 核显
 * [x] 以太网
-* [x] WIFI ([zxystd 大神开发的 Intel 无线网卡驱动](https://github.com/zxystd/itlwm))
-* [x] 蓝牙 ([zxystd 大神开发的 Intel 蓝牙驱动](https://github.com/zxystd/IntelBluetoothFirmware))
+* [x] WIFI ([zxystd 大神开发的 Intel 无线网卡驱动](https://github.com/OpenIntelWireless/itlwm))
+* [x] 蓝牙 ([zxystd 大神开发的 Intel 蓝牙驱动](https://github.com/OpenIntelWireless/IntelBluetoothFirmware))
 * [x] 声卡
 * [x] 摄像头
 * [x] 触控板
@@ -29,12 +29,14 @@ Install Hackintosh(Catalina 10.15.x) in Acer TraveMate P249(i5-6200U)
 
 ## 提醒
 
-* 系统安装完, 请使用 Clover Configurator 生成 SMBIOS 序列号，否则无法登陆 App Store
+* 系统安装完, 请使用 OpenCore Configurator 生成 SMBIOS 序列号，否则无法登陆 App Store
+* WIFI 需额外安装 [HeliPort](https://github.com/OpenIntelWireless/HeliPort) 客户端
 
 ## 更新日志
 
 | 日期      | 详情                                                              |
 |-----------|----------------------------------------------------------------------|
+| 2020.09.23 | 更新 OpenCroe 0.6.2 Beta |
 | 2020.09.21 | 迁移到 OpenCroe 0.6.2 Beta |
 | 2020.08.24 | Clover 5121 及部分 kext 更新 |
 | 2020.08.13 | Clover 5120 及部分 kext 更新 |

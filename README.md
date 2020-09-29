@@ -1,5 +1,5 @@
 # Acer_TraveMate_P249_hackintosh
-Install Hackintosh(Catalina 10.15.x) in Acer TraveMate P249(i5-6200U)
+Install Hackintosh(Bir Sur 11.0 Beta & Catalina 10.15.x) in Acer TraveMate P249(i5-6200U)
 
 ## 配置
 * CPU: i5-6200U
@@ -36,6 +36,7 @@ Install Hackintosh(Catalina 10.15.x) in Acer TraveMate P249(i5-6200U)
 
 | 日期      | 详情                                                              |
 |-----------|----------------------------------------------------------------------|
+| 2020.09.29 | 更新 OpenCroe 0.6.2 Beta，升级到 Big Sur 11.0 beta 8|
 | 2020.09.23 | 更新 OpenCroe 0.6.2 Beta |
 | 2020.09.21 | 迁移到 OpenCroe 0.6.2 Beta |
 | 2020.08.24 | Clover 5121 及部分 kext 更新 |

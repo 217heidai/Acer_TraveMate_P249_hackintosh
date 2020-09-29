@@ -1,5 +1,5 @@
 # Acer_TraveMate_P249_hackintosh
-Install Hackintosh(Bir Sur 11.0 Beta & Catalina 10.15.x) in Acer TraveMate P249(i5-6200U)
+Install Hackintosh(Big Sur 11.0 Beta & Catalina 10.15.x) in Acer TraveMate P249(i5-6200U)
 
 ## 配置
 * CPU: i5-6200U

@@ -35,7 +35,8 @@ Install Hackintosh(Big Sur 11.0 Beta & Catalina 10.15.x) in Acer TraveMate P249(
 
 | 日期      | 详情                                                              |
 |-----------|----------------------------------------------------------------------|
-| 2020.10.09 | 更新 OpenCroe 0.6.2，升级到 Big Sur beta 9|
+| 2020.11.03 | 更新 OpenCroe 0.6.3，升级到 Big Sur 11.0.1 beta|
+| 2020.10.09 | 更新 OpenCroe 0.6.2，升级到 Big Sur 11.0 beta 9|
 | 2020.09.21 | 迁移到 OpenCroe 0.6.2 Beta |
 | 2020.08.24 | Clover 5121 |
 | 2020.08.13 | Clover 5120 |

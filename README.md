@@ -35,6 +35,7 @@ Install Hackintosh(Big Sur & Catalina) in Acer TraveMate P249(i5-6200U)
 
 | 日期      | 详情                                                              |
 |-----------|----------------------------------------------------------------------|
+| 2021.02.03 | OpenCroe 0.6.5 & Big Sur 11.2|
 | 2021.01.05 | OpenCroe 0.6.5 |
 | 2020.12.08 | OpenCroe 0.6.4 & Big Sur 11.1 |
 | 2020.11.03 | OpenCroe 0.6.3 & Big Sur 11.0.1 RC 1 |

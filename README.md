@@ -24,6 +24,7 @@ Install Hackintosh(Big Sur & Catalina) in Acer TraveMate P249(i5-6200U)
 * [x] 摄像头
 * [x] 触控板
 * [x] USB 及 USB 扩展
+* [x] SD读卡器
 * [x] HDMI 输出
 * [x] 关机、重启、睡眠
 
@@ -35,6 +36,7 @@ Install Hackintosh(Big Sur & Catalina) in Acer TraveMate P249(i5-6200U)
 
 | 日期      | 详情                                                              |
 |-----------|----------------------------------------------------------------------|
+| 2021.09.08 | 修复SD读卡器 |
 | 2021.09.07 | OpenCroe 0.7.3 & Big Sur 11.5.2 |
 | 2021.08.11 | OpenCroe 0.7.2 & Big Sur 11.5.1 |
 | 2021.07.06 | OpenCroe 0.7.1 |

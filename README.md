@@ -1,5 +1,5 @@
 # Acer_TraveMate_P249_hackintosh
-Install Hackintosh(Big Sur & Catalina) in Acer TraveMate P249(i5-6200U)
+Install Hackintosh(Monterey & Big Sur & Catalina) in Acer TraveMate P249(i5-6200U)
 
 ## 配置
 * CPU: i5-6200U
@@ -30,12 +30,14 @@ Install Hackintosh(Big Sur & Catalina) in Acer TraveMate P249(i5-6200U)
 
 ## 提醒
 
+* ***WIFI、蓝牙驱动不兼容 Big Sur、Catalina，需要的请自行更换***
 * 系统安装完, 请使用 OpenCore Configurator 生成 SMBIOS 序列号，否则无法登陆 App Store
 
 ## 更新日志
 
 | 日期      | 详情                                                              |
 |-----------|----------------------------------------------------------------------|
+| 2021.10.29 | 升级到 Monterey 12.0.1，蓝牙不可用待修复，其他正常|
 | 2021.10.09 | OpenCroe 0.7.4 |
 | 2021.09.23 | 更新蓝牙驱动 & Big Sur 11.6 |
 | 2021.09.08 | 修复SD读卡器 |

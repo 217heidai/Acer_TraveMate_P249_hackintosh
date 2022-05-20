@@ -37,6 +37,7 @@ Install Hackintosh(Monterey & Big Sur & Catalina) in Acer TraveMate P249(i5-6200
 
 | 日期      | 详情                                                              |
 |-----------|----------------------------------------------------------------------|
+| 2022.05.20 | OpenCroe 0.8.0 |
 | 2022.03.14 | OpenCroe 0.7.9 |
 | 2022.01.11 | OpenCroe 0.7.7 |
 | 2021.12.07 | OpenCroe 0.7.6 |

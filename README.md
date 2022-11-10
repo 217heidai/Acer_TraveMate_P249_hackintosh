@@ -32,12 +32,14 @@ Install Hackintosh(Monterey & Big Sur & Catalina) in Acer TraveMate P249(i5-6200
 
 * ***WIFI、蓝牙驱动不兼容 Big Sur、Catalina，需要的请自行更换***
 * 系统安装完, 请使用 OpenCore Configurator 生成 SMBIOS 序列号，否则无法登陆 App Store
+* ***不支持升级 Ventura***
 
 ## 更新日志
 
 | 日期      | 详情                                                              |
 |-----------|----------------------------------------------------------------------|
-| 2022.09.06 | OpenCroe 0.8.5 |
+| 2022.11.10 | OpenCroe 0.8.6 |
+| 2022.10.06 | OpenCroe 0.8.5 |
 | 2022.09.06 | OpenCroe 0.8.4 |
 | 2022.08.08 | OpenCroe 0.8.3 |
 | 2022.07.05 | OpenCroe 0.8.2 |

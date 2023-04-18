@@ -1,5 +1,6 @@
 # Acer_TraveMate_P249_hackintosh
 ***换电脑了，不再更新***
+
 Install Hackintosh(Monterey & Big Sur & Catalina) in Acer TraveMate P249(i5-6200U)
 
 ## 配置
